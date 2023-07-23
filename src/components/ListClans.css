@@ -36,10 +36,6 @@
   box-shadow: 0 0 0 0.2rem rgba(107, 44, 168, 0.25); /* Sombra al enfocar */
 }
 
-.search-button:hover {
-  background-color: #4f2280; /* Fondo en tono morado oscuro al pasar el ratón */
-}
-
 /* Estilos para la lista de clanes */
 .clan-list {
   display: grid;
